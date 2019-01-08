@@ -1,5 +1,5 @@
 # Path Of Exile LabCompass translator
-Script created by spaque for Path of Exile french fans to tranlsate JSON lab files from [POE LAB](www.poelab.com) and use LabCompass in the french version of POE.
+Script created by spaque for Path of Exile french fans to tranlsate JSON lab files from [POE LAB](https://www.poelab.com/) and use LabCompass in the french version of POE.
 This script will work for any langage.
 
 
