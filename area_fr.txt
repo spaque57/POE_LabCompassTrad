@@ -1,0 +1,23 @@
+estate	propriété
+domain	domaine
+basilica	basilique
+mansion	manoir
+sepulchre	sépulcre
+sanitorium	sanatorium
+sanitorium	sanitorium
+walkways	passerelles
+path	chemin
+crossing	traversée
+passage	passage
+annex	annexe
+enclosure	enceinte
+enclosure	enclos
+atrium	atrium
+aspirant's	aspirant
+plaza	place
+trial	épreuve
+halls	salle
+
+
+
+
